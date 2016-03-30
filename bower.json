@@ -1,0 +1,18 @@
+{
+  "name": "multi-slider",
+  "description": "React component for multiple values slider (allocate values)",
+  "main": "src/index.js",
+  "authors": [
+    "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/pbaille/multi-slider",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
